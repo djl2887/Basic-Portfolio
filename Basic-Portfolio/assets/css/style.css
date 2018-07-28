@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+}
+
+header {
+    padding: 15px 30px 15px 100px;
+    background: #ffffff;
+    border-bottom: 1px solid grey;
+}
+
+
+header h1 {
+    color: white;
+    background: #4aaaa5;
+    padding: 15px 5px 15px 5px;
+    display: inline;
+    margin: 0px 300px 0px 200px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+nav ul {
+    margin: 0px;
+    display: inline;
+}
+
+nav ul li {
+    padding: 5px;
+    display: inline-block;
+}
+
+nav ul li a {
+    color: grey;
+    text-decoration: none;
+}
+h2 {
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+section {
+    background-image: url(../Basic-Portfolio/skulls/skulls.png);
+    border: #cccccc;
+    border: 
+}
